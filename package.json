@@ -1,0 +1,25 @@
+{
+  "name": "scrumtastic-jacobmoldrup",
+  "version": "1.0.0",
+  "description": "A web app for SCRUM software development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-jacobmoldrup.git"
+  },
+  "keywords": [
+    "SCRUM"
+  ],
+  "author": "Jacob T Moldrup",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-jacobmoldrup/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-jacobmoldrup#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
